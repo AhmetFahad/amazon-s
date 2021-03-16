@@ -1,4 +1,5 @@
 nokogiri = Nokogiri.HTML(content)
+
 # initialize an empty hash
 product = {}
 
